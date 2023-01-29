@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Be+Welcome+to+my+profile!;MY+NAME+is+Thiago+"nikit0"+Souza;I+live+in+Piracicaba,+SP;I'm+studying+systems+development+at+Anhembi+Morumbi;Exploring+new+technologies;and;Learning+more+about+3D,+Front/Back-end+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Be+Welcome+to+my+profile!;MY+NAME+is+Arlindo+"Gal"+Durão;I+live+in+Lisboa,+PT;I'm+studying+computer+equipment+management+at+Tomar;Exploring+new+technologies;and;Learning+more+about+Front/Back-end+development)](https://git.io/typing-svg)
 
 #
 
@@ -10,38 +10,20 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
-  
-  ### - ☁️ &nbsp;Cloud
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
-  ![Cloud Flare](https://img.shields.io/badge/-Cloud%20Flare-333333?style=flat&logo=cloudflare)&nbsp;
 
   ### - ⚙️ &nbsp;Tools
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)&nbsp;
 
   ### - 🔧 &nbsp;Editors
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![VS Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)&nbsp;
- 
-  ### - 💻 &nbsp;3D
-  ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)&nbsp;
-  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=ea7600)&nbsp;
-  ![Zmodeler](https://img.shields.io/badge/-Zmodeler-333333?style=flat&logo=sketchup&logoColor=1572B6)&nbsp;
   
   ### - 📌 &nbsp;Others
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
   ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
 </div>
 
