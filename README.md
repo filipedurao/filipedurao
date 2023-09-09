@@ -11,6 +11,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)&nbsp;
+  ![NodeJS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)&nbsp;
 
   ### - 🛢 &nbsp;Database
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
